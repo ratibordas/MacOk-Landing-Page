@@ -6,8 +6,8 @@ import Icons from '../icons'
 
 const HomePage = () => {
     return (
-        <main>
-            <section className="container main_content ">
+        <section>
+            <div className="container main_content ">
                 <div className="row flex-wrap justify-content-center aligh-items-center mx-auto">
                     <div className="col-lg-12">
                         <p className="main_text ">MACBOOK</p>
@@ -20,11 +20,11 @@ const HomePage = () => {
 
                    <Icons/>
         
-            </section>
+            </div>
          
 
 
-        </main>
+        </section>
     )
 }
 
