@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "86ae6dba3f52651b0293fa1b6911d88d",
+    "revision": "a94f757ee55dee1c5822355504d58752",
     "url": "/MacOk-Landing-Page/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MacOk-Landing-Page/static/css/2.21a324d2.chunk.css"
   },
   {
-    "revision": "497492c51fbce655ab5d",
+    "revision": "38efc030bea81333dca8",
     "url": "/MacOk-Landing-Page/static/css/main.a794ea01.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MacOk-Landing-Page/static/js/2.daea1068.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "497492c51fbce655ab5d",
-    "url": "/MacOk-Landing-Page/static/js/main.92fb8f8d.chunk.js"
+    "revision": "38efc030bea81333dca8",
+    "url": "/MacOk-Landing-Page/static/js/main.713b1ee8.chunk.js"
   },
   {
     "revision": "46e3b2127987fb75b5e8",

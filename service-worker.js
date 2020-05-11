@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/MacOk-Landing-Page/precache-manifest.fb6733aeaff37e5262562d5835f5c062.js"
+  "/MacOk-Landing-Page/precache-manifest.316ed2cd075859f9849924933ce9edaa.js"
 );
 
 self.addEventListener('message', (event) => {
