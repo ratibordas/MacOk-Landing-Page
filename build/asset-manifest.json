@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.94205c69.chunk.css",
+    "main.js": "/static/js/main.dfb9a02f.chunk.js",
+    "main.js.map": "/static/js/main.dfb9a02f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1f29671d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1f29671d.js.map",
+    "static/css/2.c60feeff.chunk.css": "/static/css/2.c60feeff.chunk.css",
+    "static/js/2.f32e58bd.chunk.js": "/static/js/2.f32e58bd.chunk.js",
+    "static/js/2.f32e58bd.chunk.js.map": "/static/js/2.f32e58bd.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e99538ec4f2bd9acf0602f212eeb261a.js": "/precache-manifest.e99538ec4f2bd9acf0602f212eeb261a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.c60feeff.chunk.css.map": "/static/css/2.c60feeff.chunk.css.map",
+    "static/css/main.94205c69.chunk.css.map": "/static/css/main.94205c69.chunk.css.map",
+    "static/js/2.f32e58bd.chunk.js.LICENSE.txt": "/static/js/2.f32e58bd.chunk.js.LICENSE.txt",
+    "static/media/service-page.scss": "/static/media/el-alce-web-njX7_Ixraio-unsplash.15661bd5.jpg",
+    "static/media/instagram-brands.svg": "/static/media/instagram-brands.a5b3083c.svg",
+    "static/media/macbook-mockup-png.png": "/static/media/macbook-mockup-png.9e2a9032.png",
+    "static/media/slick-theme.css": "/static/media/slick.f97e3bbf.svg",
+    "static/media/telegram-brands.svg": "/static/media/telegram-brands.c75b39fe.svg",
+    "static/media/viber-brands.svg": "/static/media/viber-brands.040b385c.svg",
+    "static/media/whatsapp-brands.svg": "/static/media/whatsapp-brands.f6b857f3.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f29671d.js",
+    "static/css/2.c60feeff.chunk.css",
+    "static/js/2.f32e58bd.chunk.js",
+    "static/css/main.94205c69.chunk.css",
+    "static/js/main.dfb9a02f.chunk.js"
+  ]
+}
