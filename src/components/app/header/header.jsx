@@ -41,13 +41,13 @@ class Header extends Component {
                     <h1>MacOk</h1>
 
                     <div className="header_content_list">
-                        <Link className="header_content_list_item" to="/">
+                        <Link className="header_content_list_item" to="/MacOk-Landing-Page">
                             Home
                         </Link>
-                        <Link to="/about" className="header_content_list_item">
+                        <Link to="/MacOk-Landing-Page/about" className="header_content_list_item">
                            About
                         </Link>
-                        <Link to="/service" className="header_content_list_item">
+                        <Link to="/MacOk-Landing-Page/service" className="header_content_list_item">
                             Service
                         </Link>
 

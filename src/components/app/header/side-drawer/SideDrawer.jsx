@@ -17,9 +17,9 @@ const SideDrawer = (props) => {
     return (
         <nav className={addDrawerClass}  >
             <ul>
-                <li><Link className="header_mobile_content_list_item" to="/">Home</Link></li>
-                <li><Link to="/about" className="header_mobile_content_list_item"> About </Link></li>
-                <li><Link to="/service" className="header_mobile_content_list_item">Service</Link></li>
+                <li><Link className="header_mobile_content_list_item" to="/MacOk-Landing-Page/">Home</Link></li>
+                <li><Link to="/MacOk-Landing-Page/about" className="header_mobile_content_list_item"> About </Link></li>
+                <li><Link to="/MacOk-Landing-Page/service" className="header_mobile_content_list_item">Service</Link></li>
                 <li><Link to="/files/price.pdf" target="_blank" download className="header_mobile_content_list_item">Price&#8595;</Link></li>
             </ul>
             <ul style={{ marginTop: "14rem" }}>

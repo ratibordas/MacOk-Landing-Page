@@ -14,9 +14,9 @@ class App extends React.Component {
       <Router>
         <Header />
         <Switch>
-          <Route path="/" exact component={HomePage} />
-          <Route path="/about" component={AboutPage} />
-          <Route path="/service" component={ServicePage} />
+          <Route path="/MacOk-Landing-Page" exact component={HomePage} />
+          <Route path="/MacOk-Landing-Page/about" component={AboutPage} />
+          <Route path="/MacOk-Landing-Page/service" component={ServicePage} />
         </Switch>
 
         <Footer />
