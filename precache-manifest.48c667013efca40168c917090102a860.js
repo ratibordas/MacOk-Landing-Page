@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1b90cc19569282085c01b277716d960c",
+    "revision": "ef29e2fdf0efe7b0d56517da337fdfcf",
     "url": "/MacOk-Landing-Page/index.html"
   },
   {
-    "revision": "f96c998baca27d6d7b1c",
-    "url": "/MacOk-Landing-Page/static/css/2.fb9ab27a.chunk.css"
+    "revision": "1ed261f1dad65280cdcc",
+    "url": "/MacOk-Landing-Page/static/css/2.21a324d2.chunk.css"
   },
   {
-    "revision": "38efc030bea81333dca8",
+    "revision": "962fbe51d4d150528516",
     "url": "/MacOk-Landing-Page/static/css/main.a794ea01.chunk.css"
   },
   {
-    "revision": "f96c998baca27d6d7b1c",
+    "revision": "1ed261f1dad65280cdcc",
     "url": "/MacOk-Landing-Page/static/js/2.daea1068.chunk.js"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MacOk-Landing-Page/static/js/2.daea1068.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "38efc030bea81333dca8",
-    "url": "/MacOk-Landing-Page/static/js/main.713b1ee8.chunk.js"
+    "revision": "962fbe51d4d150528516",
+    "url": "/MacOk-Landing-Page/static/js/main.6075ced3.chunk.js"
   },
   {
     "revision": "46e3b2127987fb75b5e8",
@@ -38,6 +38,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9e2a90321a1b0950b2de78562bee98d3",
     "url": "/MacOk-Landing-Page/static/media/macbook-mockup-png.9e2a9032.png"
+  },
+  {
+    "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
+    "url": "/MacOk-Landing-Page/static/media/slick.b7c9e1e4.woff"
+  },
+  {
+    "revision": "ced611daf7709cc778da928fec876475",
+    "url": "/MacOk-Landing-Page/static/media/slick.ced611da.eot"
+  },
+  {
+    "revision": "d41f55a78e6f49a5512878df1737e58a",
+    "url": "/MacOk-Landing-Page/static/media/slick.d41f55a7.ttf"
+  },
+  {
+    "revision": "f97e3bbf73254b0112091d0192f17aec",
+    "url": "/MacOk-Landing-Page/static/media/slick.f97e3bbf.svg"
   },
   {
     "revision": "c75b39fec5f18f8874f2ba9222f2a132",
