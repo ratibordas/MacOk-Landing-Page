@@ -1,0 +1,38 @@
+@import "../../../../index.scss";
+
+@media screen and (min-width: 769px) {
+.toggle-button {
+    display: none;
+   
+}
+
+
+}
+
+@media screen and (max-width: 768px) {
+.toggle-button {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 13px;
+    width: 10px;
+    background: transparent;
+    border: none;
+    padding: 0;
+    box-sizing: border-box;
+    margin-top: 1.7rem;
+    margin-right: 0.9rem;
+    margin-left: 5px;
+   
+}
+
+.toggle-button:focus {
+    outline: none;
+}
+
+.toggle-button__line {
+    width: 20px;
+    height: 1px;
+    background: $main-color;
+}
+}

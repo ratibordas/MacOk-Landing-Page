@@ -1,0 +1,42 @@
+@import "../../../index.scss";
+
+
+.header_content {
+    position: absolute;
+    top: 2.5rem;
+    left: calc(100px);
+    color: $main-color;
+    opacity: 0.9;
+    text-shadow: 0px 4px 12px rgba(0, 0, 0, 0.12);
+    z-index: 5;
+    @media screen and (max-width: 415px) {
+        text-align: center;
+        left: 1px;
+        top: 1rem;
+    }
+
+    @media screen and (max-width: 376px) and (max-height: 670px) {
+        left: 1px;
+        top: 1rem;
+    }
+
+    .header_content_list {
+        margin-top: 1.7rem;
+        margin-left: 4.5rem;
+
+        @media screen and (max-width: 768px) {
+            display: none;
+        }
+
+        .header_content_list_item {
+            margin-left: 3.5rem;
+            text-decoration: none;
+            color: $main-color;
+            opacity: 0.9;
+            text-shadow: 0px 4px 12px rgba(0, 0, 0, 0.12);
+        }
+
+    }
+}
+
+

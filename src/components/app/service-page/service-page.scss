@@ -1,0 +1,87 @@
+@import "../../../index.scss";
+
+
+.service_content {
+    padding-top: 7%;
+    padding-bottom: 4%;
+    color: $main-color;
+    opacity: 0.9;
+    text-shadow: 0px 4px 12px rgba(0, 0, 0, 0.12);
+    @media screen and (max-width: 1200px) {
+        padding-top: 17%;
+    }
+     @media screen and (max-width: 768px) {
+        padding-top: 10%;
+        padding-bottom: 0;
+        text-align: center;
+    }
+
+    .service_content_img {
+        width: 600px;
+        height: 600px;
+        margin: auto;
+
+        @media screen and (max-width: 1200px) {
+            width: 500px;
+            height: 500px;
+        }
+
+        @media screen and (max-width: 991px) {
+            width: 400px;
+            height: 400px;
+        }
+          @media screen and (max-width: 768px) {
+            padding-top: 1%
+        }
+           @media screen and (max-width: 420px) {
+            padding-top: 1%;
+             width: 350px;
+            height: 350px;
+        }
+            @media screen and (max-width: 380px) {
+            
+             width: 300px;
+            height: 300px;
+        }
+    }
+
+    .service_content_wrap {
+        margin-top: 25%;
+        text-align: left;
+         @media screen and (max-width: 991px) {
+             margin-top: 27%;
+             margin-left: 10%;
+        }
+         @media screen and (max-width: 768px) {
+            margin-top: 0%;
+            margin-left: 0%;
+            transform: translateY(-90px);
+            margin-bottom: -20%;
+            text-align: center;
+             .service_content_button {
+            display: none;
+    }
+    }
+       @media screen and (max-width: 380px) {
+            transform: translateY(-80px);
+            
+        }
+   
+    }
+
+}
+
+
+ .service_content_button {
+    background: $main-color;
+    box-shadow: 0px 4px 24px rgba(0, 0, 0, 0.12);
+    border-radius: 24px;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 21px;
+    text-align: center;
+    width: 140px;
+    height: 28px;
+    cursor: pointer;
+ 
+ }

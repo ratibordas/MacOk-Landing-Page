@@ -1,0 +1,48 @@
+@import "../../../index.scss";
+
+
+
+.footer_content {
+    text-align: center;
+    padding-top: calc(50px);
+    @media screen and (max-width: 415px) {}
+
+    @media screen and (max-width: 376px) and (max-height: 670px) {}
+}
+
+
+.footer_content_text {
+    color: $main-color;
+    opacity: 0.9;
+    text-shadow: 0px 4px 12px rgba(0, 0, 0, 0.12);
+    font-size: 16px;
+}
+
+.footer_content_text.me {
+    @media screen and (max-width: 768px) {
+        display: none;
+    }
+}
+
+.footer_content_button {
+    background: $main-color;
+    box-shadow: 0px 4px 24px rgba(0, 0, 0, 0.12);
+    border-radius: 24px;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    width: 244px;
+    height: 48px;
+    cursor: pointer;
+}
+
+.footer_content_button:hover {
+    transform: scale(1.1);
+}
+
+.phone {
+    text-decoration: none;
+    background: $main-color;
+    margin-top: 5px;
+}
