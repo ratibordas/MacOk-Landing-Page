@@ -1,31 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ef29e2fdf0efe7b0d56517da337fdfcf",
+    "revision": "82ccb3dd00b01ea2713833b9b8435a53",
     "url": "/MacOk-Landing-Page/index.html"
   },
   {
-    "revision": "1ed261f1dad65280cdcc",
+    "revision": "d0b5f05859d0859f0fca",
     "url": "/MacOk-Landing-Page/static/css/2.21a324d2.chunk.css"
   },
   {
-    "revision": "962fbe51d4d150528516",
-    "url": "/MacOk-Landing-Page/static/css/main.a794ea01.chunk.css"
+    "revision": "e07c05a661f1d700e0c4",
+    "url": "/MacOk-Landing-Page/static/css/main.668c6410.chunk.css"
   },
   {
-    "revision": "1ed261f1dad65280cdcc",
-    "url": "/MacOk-Landing-Page/static/js/2.daea1068.chunk.js"
+    "revision": "d0b5f05859d0859f0fca",
+    "url": "/MacOk-Landing-Page/static/js/2.f73ceb18.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/MacOk-Landing-Page/static/js/2.daea1068.chunk.js.LICENSE.txt"
+    "url": "/MacOk-Landing-Page/static/js/2.f73ceb18.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "962fbe51d4d150528516",
-    "url": "/MacOk-Landing-Page/static/js/main.6075ced3.chunk.js"
+    "revision": "e07c05a661f1d700e0c4",
+    "url": "/MacOk-Landing-Page/static/js/main.b14647d5.chunk.js"
   },
   {
     "revision": "46e3b2127987fb75b5e8",
     "url": "/MacOk-Landing-Page/static/js/runtime-main.e3d6bc02.js"
+  },
+  {
+    "revision": "c7687d69642cdaaf982ab59ee1d09993",
+    "url": "/MacOk-Landing-Page/static/media/MacBook-Pro-PNG-Photo.c7687d69.png"
+  },
+  {
+    "revision": "700e29111252d98b1d0ec5a61aee30e9",
+    "url": "/MacOk-Landing-Page/static/media/apple-macbook-png-4-Transparent-Images.700e2911.png"
   },
   {
     "revision": "15661bd5474d8ca0d24677d6458fbdc0",
