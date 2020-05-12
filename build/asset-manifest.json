@@ -1,19 +1,21 @@
 {
   "files": {
-    "main.css": "/MacOk-Landing-Page/static/css/main.a794ea01.chunk.css",
-    "main.js": "/MacOk-Landing-Page/static/js/main.6075ced3.chunk.js",
-    "main.js.map": "/MacOk-Landing-Page/static/js/main.6075ced3.chunk.js.map",
+    "main.css": "/MacOk-Landing-Page/static/css/main.668c6410.chunk.css",
+    "main.js": "/MacOk-Landing-Page/static/js/main.b14647d5.chunk.js",
+    "main.js.map": "/MacOk-Landing-Page/static/js/main.b14647d5.chunk.js.map",
     "runtime-main.js": "/MacOk-Landing-Page/static/js/runtime-main.e3d6bc02.js",
     "runtime-main.js.map": "/MacOk-Landing-Page/static/js/runtime-main.e3d6bc02.js.map",
     "static/css/2.21a324d2.chunk.css": "/MacOk-Landing-Page/static/css/2.21a324d2.chunk.css",
-    "static/js/2.daea1068.chunk.js": "/MacOk-Landing-Page/static/js/2.daea1068.chunk.js",
-    "static/js/2.daea1068.chunk.js.map": "/MacOk-Landing-Page/static/js/2.daea1068.chunk.js.map",
+    "static/js/2.f73ceb18.chunk.js": "/MacOk-Landing-Page/static/js/2.f73ceb18.chunk.js",
+    "static/js/2.f73ceb18.chunk.js.map": "/MacOk-Landing-Page/static/js/2.f73ceb18.chunk.js.map",
     "index.html": "/MacOk-Landing-Page/index.html",
-    "precache-manifest.48c667013efca40168c917090102a860.js": "/MacOk-Landing-Page/precache-manifest.48c667013efca40168c917090102a860.js",
+    "precache-manifest.64f935deabe179677c6ee28a3620025c.js": "/MacOk-Landing-Page/precache-manifest.64f935deabe179677c6ee28a3620025c.js",
     "service-worker.js": "/MacOk-Landing-Page/service-worker.js",
     "static/css/2.21a324d2.chunk.css.map": "/MacOk-Landing-Page/static/css/2.21a324d2.chunk.css.map",
-    "static/css/main.a794ea01.chunk.css.map": "/MacOk-Landing-Page/static/css/main.a794ea01.chunk.css.map",
-    "static/js/2.daea1068.chunk.js.LICENSE.txt": "/MacOk-Landing-Page/static/js/2.daea1068.chunk.js.LICENSE.txt",
+    "static/css/main.668c6410.chunk.css.map": "/MacOk-Landing-Page/static/css/main.668c6410.chunk.css.map",
+    "static/js/2.f73ceb18.chunk.js.LICENSE.txt": "/MacOk-Landing-Page/static/js/2.f73ceb18.chunk.js.LICENSE.txt",
+    "static/media/MacBook-Pro-PNG-Photo.png": "/MacOk-Landing-Page/static/media/MacBook-Pro-PNG-Photo.c7687d69.png",
+    "static/media/apple-macbook-png-4-Transparent-Images.png": "/MacOk-Landing-Page/static/media/apple-macbook-png-4-Transparent-Images.700e2911.png",
     "static/media/service-page.scss": "/MacOk-Landing-Page/static/media/el-alce-web-njX7_Ixraio-unsplash.15661bd5.jpg",
     "static/media/instagram-brands.svg": "/MacOk-Landing-Page/static/media/instagram-brands.a5b3083c.svg",
     "static/media/macbook-mockup-png.png": "/MacOk-Landing-Page/static/media/macbook-mockup-png.9e2a9032.png",
@@ -25,8 +27,8 @@
   "entrypoints": [
     "static/js/runtime-main.e3d6bc02.js",
     "static/css/2.21a324d2.chunk.css",
-    "static/js/2.daea1068.chunk.js",
-    "static/css/main.a794ea01.chunk.css",
-    "static/js/main.6075ced3.chunk.js"
+    "static/js/2.f73ceb18.chunk.js",
+    "static/css/main.668c6410.chunk.css",
+    "static/js/main.b14647d5.chunk.js"
   ]
 }
