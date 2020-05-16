@@ -39,9 +39,7 @@
     .main_text {
         font-size: calc(100% * 14);
         letter-spacing: 0.02em;
-        color: $main-color;
-        opacity: 0.9;
-        text-shadow: 0px 4px 12px rgba(0, 0, 0, 0.12);
+        @extend %text-setup;
         margin-right: 5%;
 
         @media screen and (max-width: 1360px) {

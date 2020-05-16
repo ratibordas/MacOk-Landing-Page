@@ -12,9 +12,7 @@
 
 
 .footer_content_text {
-    color: $main-color;
-    opacity: 0.9;
-    text-shadow: 0px 4px 12px rgba(0, 0, 0, 0.12);
+    @extend %text-setup;
     font-size: 16px;
 }
 
