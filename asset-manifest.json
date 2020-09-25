@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/MacOk-Landing-Page/static/css/main.bc97db52.chunk.css",
-    "main.js": "/MacOk-Landing-Page/static/js/main.79faade2.chunk.js",
-    "main.js.map": "/MacOk-Landing-Page/static/js/main.79faade2.chunk.js.map",
+    "main.js": "/MacOk-Landing-Page/static/js/main.86be2e90.chunk.js",
+    "main.js.map": "/MacOk-Landing-Page/static/js/main.86be2e90.chunk.js.map",
     "runtime-main.js": "/MacOk-Landing-Page/static/js/runtime-main.e3d6bc02.js",
     "runtime-main.js.map": "/MacOk-Landing-Page/static/js/runtime-main.e3d6bc02.js.map",
     "static/css/2.21a324d2.chunk.css": "/MacOk-Landing-Page/static/css/2.21a324d2.chunk.css",
     "static/js/2.f73ceb18.chunk.js": "/MacOk-Landing-Page/static/js/2.f73ceb18.chunk.js",
     "static/js/2.f73ceb18.chunk.js.map": "/MacOk-Landing-Page/static/js/2.f73ceb18.chunk.js.map",
     "index.html": "/MacOk-Landing-Page/index.html",
-    "precache-manifest.b8e90297ee4b2100d805dbae9e717dd8.js": "/MacOk-Landing-Page/precache-manifest.b8e90297ee4b2100d805dbae9e717dd8.js",
+    "precache-manifest.05b8e6e14f3060b2e2e6924fe17b3195.js": "/MacOk-Landing-Page/precache-manifest.05b8e6e14f3060b2e2e6924fe17b3195.js",
     "service-worker.js": "/MacOk-Landing-Page/service-worker.js",
     "static/css/2.21a324d2.chunk.css.map": "/MacOk-Landing-Page/static/css/2.21a324d2.chunk.css.map",
     "static/css/main.bc97db52.chunk.css.map": "/MacOk-Landing-Page/static/css/main.bc97db52.chunk.css.map",
@@ -29,6 +29,6 @@
     "static/css/2.21a324d2.chunk.css",
     "static/js/2.f73ceb18.chunk.js",
     "static/css/main.bc97db52.chunk.css",
-    "static/js/main.79faade2.chunk.js"
+    "static/js/main.86be2e90.chunk.js"
   ]
 }
