@@ -35,7 +35,7 @@ class Header extends Component {
         }
 
         return (
-            <header className="fadeIn">
+            <header className=" header fadeIn">
                 <nav className="d-flex flex-wrap flex-row header_content"  >
                     <DrawerToggleButton drawerClickHandler={this.drawerToggleClickHandler} />
                     <h1>MacOk</h1>

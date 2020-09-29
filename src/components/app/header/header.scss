@@ -1,6 +1,11 @@
 @import "../../../index.scss";
 
-
+.header {
+    height: 5rem;
+    @media screen and (max-width: 415px) {
+        height: 100%;
+    }
+}
 .header_content {
     position: absolute;
     top: 2.5rem;
